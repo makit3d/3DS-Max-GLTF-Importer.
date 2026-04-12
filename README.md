@@ -3,6 +3,8 @@
 
 A free, open-source GLTF/GLB importer for Autodesk 3ds Max. Pure Python — no external dependencies, no compiled binaries. Just drop the script into Max and run it (evaluate it). I needed something to import a GLB and GLTF file and didn't want to pay NINETY (90) dollars U.S. to have one. This is a personal project and I do not really have a lot of time to put into this. It works for my purposes, but if someone else wants to tackle this beast than here it is. I will contribute when I can, but don't expect that to be often.
 
+![GLTF Importer_ver 0 3 0-Corona](https://github.com/user-attachments/assets/dbdb37ea-1d6b-41a2-8481-d6641604a11d)
+
 ## Features
 
 - **GLTF 2.0 & GLB** — Supports both JSON and binary formats
