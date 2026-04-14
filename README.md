@@ -25,7 +25,7 @@ A free, open-source GLTF/GLB importer for Autodesk 3ds Max. Pure Python — no e
 2. Place it anywhere on your system (e.g. `C:\Users\YourName\Documents\3dsMax\scripts\`)
 3. In 3ds Max, open the Script Editor (or Run Script)
 4. Load file
-5. Evaluate all
+5. Evaluate all (Ctrl+E)
 
 Thank my friend Chris for the information below. Seems like a lot of work to run a script.
 
